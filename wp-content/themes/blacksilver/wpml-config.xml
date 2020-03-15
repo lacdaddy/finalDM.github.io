@@ -1,0 +1,23 @@
+<wpml-config>
+  <admin-texts>
+    <key name="theme_mods_kordex">
+      <key name="portfolio_allitems"/>
+      <key name="portfolio_carousel_heading"/>
+      <key name="rightclick_disabletext"/>
+      <key name="events_readmore"/>
+      <key name="event_postponed"/>
+      <key name="event_cancelled"/>
+      <key name="event_gallery_title"/>
+      <key name="read_more"/>
+      <key name="proofing_all_items"/>
+      <key name="proofing_selected_items"/>
+      <key name="proofing_rejected_items"/>
+      <key name="proofing_editorchoice_items"/>
+      <key name="proofing_selected_count"/>
+      <key name="portfolio_archive_title"/>
+      <key name="portfolio_fullscreen_viewtext"/>
+      <key name="footer_copyright"/>
+      <key name="lightbox_purchase_text"/>
+    </key>
+  </admin-texts>
+</wpml-config>

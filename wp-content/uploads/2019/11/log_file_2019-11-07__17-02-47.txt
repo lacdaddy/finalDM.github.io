@@ -1,0 +1,44 @@
+
+---Downloaded files---
+The import files for: Ceres ( Toggle Menu ) were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://imaginem.cloud/blacksilver-ceres
+Data file = /home1/shopvesc/public_html/imaginem/wp-content/plugins/imaginem-blocks-ii/demo-import/demo-data/togglemenu/ceres-demo.xml
+Widget file = /home1/shopvesc/public_html/imaginem/wp-content/plugins/imaginem-blocks-ii/demo-import/demo-data/togglemenu/ceres-widgets.json
+Customizer file = /home1/shopvesc/public_html/imaginem/wp-content/uploads/sites/7/2019/11/demo-customizer-import-file_2019-11-07__17-02-47.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Default Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Mobile Social : 
+
+blacksilver Social Widget - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
